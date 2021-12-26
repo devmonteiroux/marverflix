@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.22
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Marvel-Regular
+FamilyName:Marvel
+StyleName:Regular
+FullName:Marvel Regular
+MenuName:Marvel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Monteiroo\Desktop\projetos\MarvelFlix\Font\marvel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8032
+FileModTime:1577992832
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Marvel Regular
+NameArray:0,Win,1,Marvel
+%EndFont
+
