@@ -59,7 +59,7 @@
     justify-items: center;
   }
   
-  .main h1 {
+  .main h3 {
     font-size: 54px;
     max-width: 580px;
   }
@@ -130,7 +130,7 @@
     border-top: 8px solid #222;
   }
   
-  .section h1 {
+  .section h3 {
     font-size: 50px;
     margin-bottom: 16px;
   }
